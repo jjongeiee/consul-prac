@@ -19,7 +19,7 @@ body{
 
 .impot{
     display: grid;
-    grid-template-columns: 35vh 1fr;
+    grid-template-columns: 35vh 1fr 10vh;
     margin-top: 10vh;
 }
 
