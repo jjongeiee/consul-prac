@@ -19,12 +19,11 @@ body{
 
 .impot{
     display: grid;
-    grid-template-columns: 35vh 1fr 10vh;
+    grid-template-columns: 35vh 1fr;
     margin-top: 10vh;
 }
 
 #youtu{
-    display: ;
     width:50vh;
     height:50vh;
     margin: ;
