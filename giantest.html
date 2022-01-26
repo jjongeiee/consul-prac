@@ -43,7 +43,9 @@
             //계산식 값 불러오기(계산은 안되는거임)
             var Math = (document.getElementById('Money').value);
             //계산식 값 계산해주기
-            var Price = eval(Math);
+            var Addd = eval(Math);
+            //값 콤마찍어주기
+            var Price = Addd.toLocaleString();
             //소속부서 입력창 값 불러오기
             var TeamName = document.getElementById('TeamN').value; 
             //기타특이사항
